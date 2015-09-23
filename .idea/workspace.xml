@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fd3467b-3414-4f11-b1df-d3bc09e7335d" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\hlb3008\dd\image\12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\hlb3008\dd\image\13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\hlb3008\dd\image\21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\hlb3008\dd\image\42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\hlb3008\dd\image\Desert.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\hlb3008\dd\image\kbcp.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dd/conclusion.html" afterPath="$PROJECT_DIR$/dd/conclusion.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dd/evaluation.html" afterPath="$PROJECT_DIR$/dd/evaluation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dd/index.html" afterPath="$PROJECT_DIR$/dd/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dd/introduction.html" afterPath="$PROJECT_DIR$/dd/introduction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dd/process.html" afterPath="$PROJECT_DIR$/dd/process.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dd/resources.html" afterPath="$PROJECT_DIR$/dd/resources.html" />
-    </list>
+    <list default="true" id="3fd3467b-3414-4f11-b1df-d3bc09e7335d" name="Default" comment="" />
     <ignored path="hlb3008.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -278,8 +265,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="688" extended-state="1" />
-    <editor active="true" />
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
